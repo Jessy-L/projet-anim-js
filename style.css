@@ -1,0 +1,19 @@
+body{
+
+    background-color: #1b1b3f;
+    height: 110vh;
+
+}
+
+
+.bloc{
+
+    background-color: deepskyblue;
+    border: 2px solid white;
+    width: 150px;
+    height: 150px;
+    margin: auto;
+
+}
+
+

@@ -1,0 +1,23 @@
+
+:root{
+
+
+    --left-zoom-opacity: 0;
+    --left-zoom-margin: 0;
+
+
+
+}
+
+[data-anim]{
+    transition: 0.5s;
+}
+
+
+
+[data-anim="left-zoom-jl"]{
+
+    opacity: var(--left-zoom-opacity);
+    margin: var(--left-zoom-margin);
+
+}
